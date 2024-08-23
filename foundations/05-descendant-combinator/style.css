@@ -1,0 +1,6 @@
+div p { /** div > p also works here */
+    text-align: center;
+    background: yellow;
+    color: red;
+    font-size: 20px;
+}
